@@ -1,18 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Rocky Hugo Site</title>
-    <link>http://localhost:17329/</link>
-    <description>Recent content on Rocky Hugo Site</description>
+    <title>Rocky的博客 </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rocky的博客 </description>
     <generator>Hugo -- 0.147.9</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:17329/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Jul 2025 15:44:24 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 02 Jul 2025 15:44:24 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
     <item>
       <title>你好，世界！</title>
-      <link>http://localhost:17329/posts/hello-world2/</link>
+      <link>http://localhost:1313/posts/hello-world3/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world3/</guid>
+      <description>&lt;p&gt;这是我的第333333篇博客文章！&lt;/p&gt;
+&lt;h2 id=&#34;标题&#34;&gt;标题&lt;/h2&gt;
+&lt;p&gt;这里是正文内容&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;子标题&#34;&gt;子标题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;列表项 1&lt;/li&gt;
+&lt;li&gt;列表项 2&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>你好，世界！</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:17329/posts/hello-world2/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;这是我的第一篇博客文章！&lt;/p&gt;
+&lt;h2 id=&#34;标题&#34;&gt;标题&lt;/h2&gt;
+&lt;p&gt;这里是正文内容&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;ddd子标题&#34;&gt;ddd子标题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;列表项 1&lt;/li&gt;
+&lt;li&gt;列表项 2&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>你好，世界！</title>
+      <link>http://localhost:1313/posts/hello-world2/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world2/</guid>
       <description>&lt;p&gt;这是我的第1111篇博客文章！&lt;/p&gt;
 &lt;h2 id=&#34;标题&#34;&gt;标题&lt;/h2&gt;
 &lt;p&gt;这里是正文内容&amp;hellip;&lt;/p&gt;

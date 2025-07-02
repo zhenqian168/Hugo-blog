@@ -1,7 +1,7 @@
-baseURL: "https://example.com"  # 替换为您的域名
-title: "我的博客"
+baseURL: "https://blog.172737.xyz/"  # 替换为您的域名
+title: "Rocky的博客 "
 theme: PaperMod
-paginate: 5
+pagination.pagerSize: 10
 
 # 基本设置
 enableRobotsTXT: true
